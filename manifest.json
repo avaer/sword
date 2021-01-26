@@ -1,0 +1,12 @@
+{
+  "name": "sword",
+  "description": "Sword XRPackage",
+  "xr_type": "webxr-site@0.0.1",
+  "start_url": "sword.glb",
+  "components": [
+    {
+      "type": "wear",
+      "offset": [0, 0, 0]
+    }
+  ]
+}
