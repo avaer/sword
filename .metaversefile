@@ -1,0 +1,10 @@
+{
+  "name": "sword",
+  "start_url": "sword.glb",
+  "components": [
+    {
+      "type": "wear",
+      "position": [0, 0, 0]
+    }
+  ]
+}
