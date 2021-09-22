@@ -3,8 +3,12 @@
   "start_url": "sword.glb",
   "components": [
     {
-      "type": "wear",
-      "position": [0, 0, 0]
+      "key": "wear",
+      "value": {
+        "boneAttachment": "spine",
+        "position": [0.4, 0.7, -0.2],
+        "quaternion": [0, 0, 0.9510565162951535, 0.30901699437494745]
+      }
     }
   ]
 }
