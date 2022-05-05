@@ -1,5 +1,6 @@
 {
   "name": "sword",
+  "description": "sword: A melee weapon",
   "start_url": "sword.glb",
   "components": [
     {
